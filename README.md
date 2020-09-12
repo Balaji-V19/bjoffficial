@@ -14,22 +14,9 @@
 * 🖼️ Follow me on <a href='https://twitter.com/Balaji32498148'>Twitte,</a> <a href='https://www.linkedin.com/in/balaji-v-a73138171/'>LinkedIn,</a> and <a href='https://www.youtube.com/channel/UCvjPMFw4yTfgtWSY9F9JqKw'>YouTube</a>
 
 <img src='https://camo.githubusercontent.com/9dbb5d23fcab5ca0fdae43fd8411314098d69c3b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d626a6f666666696369616c262673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666666666662669636f6e5f636f6c6f723d62623261636626746578745f636f6c6f723d6461663764632662675f636f6c6f723d313531353135'>
-`name: testing_kinesis
+`
+name: testing_kinesis
 description: A new Flutter application.
-
-# The following line prevents the package from being accidentally published to
-# pub.dev using `pub publish`. This is preferred for private packages.
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
-
-# The following defines the version and build number for your application.
-# A version number is three numbers separated by dots, like 1.2.43
-# followed by an optional build number separated by a +.
-# Both the version and the builder number may be overridden in flutter
-# build by specifying --build-name and --build-number, respectively.
-# In Android, build-name is used as versionName while build-number used as versionCode.
-# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
-# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
-# Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 version: 1.0.0+1
 
@@ -43,23 +30,15 @@ dependencies:
   http_client: '>=0.5.0 <2.0.0'
   camera: ^0.5.8+5
 
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
+ 
   cupertino_icons: ^0.1.3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-# For information on the generic Dart part of this file, see the
-# following page: https://dart.dev/tools/pub/pubspec
-
-# The following section is specific to Flutter.
 flutter:
 
-  # The following line ensures that the Material Icons font is
-  # included with your application, so that you can use the icons in
-  # the material Icons class.
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
