@@ -1,4 +1,4 @@
-### 👋 Hi there Balaji here
+##### 👋 Hi there Balaji here
 
 * 🎉 Currently I'm working on Futuryze as a intern
 * 🧭 I use my free times by learning new things
